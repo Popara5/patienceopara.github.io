@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>VIVIANE TCHANI</Logo>
+        <Logo>PATIENCE OPARA</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
          
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 VIVIANE TCHANI. All rights reserved.
+          &copy; 2025 PATIENCE OPARA. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
