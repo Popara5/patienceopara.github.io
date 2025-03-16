@@ -9,8 +9,8 @@ export const Bio = {
       "I am a cloud engineer with over 5 years of experience building scalable and secure cloud solutions in both azure and aws.",
     github: "https://github.com/patienceopara",
     resume:
-    "https://docs.google.com/document/d/1jifqWL8flZG5xnLYvDgbtGNE48MZc3r4W-vfgLqf5DU/edit?tab=t.0",
-    linkedin: "https://www.linkedin.com/feed/",
+    "https://drive.google.com/file/d/169R6KZng0JnSlFOZsxf5sxNddK-bdMaR/view?usp=sharing",
+    linkedin: "https://www.linkedin.com/in/patience-opara-active-public-trust-security-clearance-268930248/",
     
 
 
