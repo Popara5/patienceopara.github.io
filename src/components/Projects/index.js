@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects including Automation, monitoring, containarization, and security. Here are some of my projects.
+          I have worked on a wide range of projects including Automation, monitoring, containerization, and security. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -38,12 +38,7 @@ const Projects = ({openModal,setOpenModal}) => {
             :
             <ToggleButton value="Devops" onClick={() => setToggle('Devops')}>Devops</ToggleButton>
           }
-          <Divider />
-          {toggle === 'portfolio website' ?
-            <ToggleButton active value="portfolio website" onClick={() => setToggle('portfolio website')}>Portfolio website</ToggleButton>
-            :
-            <ToggleButton value="portfolio website" onClick={() => setToggle('portfolio website')}>Portfolio website</ToggleButton>
-          }
+         
         </ToggleButtonGroup>
 
         <CardContainer>
